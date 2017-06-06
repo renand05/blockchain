@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain implementation with solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renand05/blockchain.git"
+  },
+  "author": "Andres Rengifo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renand05/blockchain/issues"
+  },
+  "homepage": "https://github.com/renand05/blockchain#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^3.0.5"
+  }
+}
